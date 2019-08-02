@@ -5,3 +5,4 @@ My repository for my class:
 This is Judy here, I think I am still a bit confuse about what's going on with this Class.
 My name is harpreetkaur. 
 
+just a class workshop!
