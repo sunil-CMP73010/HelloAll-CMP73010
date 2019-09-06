@@ -1,5 +1,7 @@
 # HelloAll-CMP73010
-My repository for my class
-going on good:- surender singh berwal
-Hi there, I am Yizhen Song.This is my last two session in SCU. And i am look forward to get knowledge about software development in this unit.  Rahul teaches very well. I really like the way he teaches.
-This is my favourite class.
+Hello this is just a test and I am student of Managing software developlment 
+I have used github ages ago but now it looks completely new.
+As per my previous knowledge git is used for version control
+Hope I will learn more in coming days.
+
+Thanks.
